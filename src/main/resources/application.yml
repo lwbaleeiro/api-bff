@@ -1,0 +1,4 @@
+server:
+  path: "/"
+  port: 8080
+
