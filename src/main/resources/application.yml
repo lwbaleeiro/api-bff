@@ -2,3 +2,8 @@ server:
   path: "/"
   port: 8080
 
+client:
+  url:
+    api-first-access: "https://servicos-devx.tokiomarine.com.br/portais/ds/v1/consultor-negocio/"
+    api-forgot-password: "https://servicos-devx.tokiomarine.com.br/portais/ds/v1/consultor-negocio/"
+    api-auth: "https://servicos-devx.tokiomarine.com.br/portais/ds/v1/consultor-negocio/"
